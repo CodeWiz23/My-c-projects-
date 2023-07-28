@@ -1,14 +1,12 @@
 #ifndef STUDENT_H
 #define STUDENT_H
-#include "student.h"
+
 
 class student
 {
-    public:
-
-
-
- void display();
+public:
+    void display () const;
+    void display2 ();
 };
 
 #endif // STUDENT_H

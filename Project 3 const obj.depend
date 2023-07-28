@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1690521390 source:d:\c++ codes\project 3 const obj\main.cpp
+	<iostream>
+	"student.h"
+
+1690521684 d:\c++ codes\project 3 const obj\student.h
+
+1690521871 source:d:\c++ codes\project 3 const obj\student.cpp
+	"student.h"
+	<iostream>
+
